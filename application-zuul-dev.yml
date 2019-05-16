@@ -10,3 +10,6 @@ zuul:
     plat:
       path: /plat/**
       service-id: pinxixi-plat
+    plat:
+      path: /product/**
+      service-id: pinxixi-product
