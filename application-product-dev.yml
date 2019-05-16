@@ -1,0 +1,10 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: PINXIXI-PRODUCT
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql:///pinxixi-product?useSSL=false&useUnicode=true&characterEncoding=utf8
+    username: root
+    password: root
