@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: AIGOU-PLAT
+    name: PINXIXI-PLAT
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql:///pinxixi?useSSL=false&useUnicode=true&characterEncoding=utf8
