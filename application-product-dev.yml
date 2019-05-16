@@ -8,3 +8,5 @@ spring:
     url: jdbc:mysql:///pinxixi?useSSL=false&useUnicode=true&characterEncoding=utf8
     username: root
     password: root
+mybatis:
+  type-aliases-package: cn.itsource.pinxixi.domain,cn.itsource.pinxixi.query
